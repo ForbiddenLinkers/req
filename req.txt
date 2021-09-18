@@ -1,6 +1,7 @@
 motor>=2.3.1
 asyncurban
 aiohttp
+redis
 aiofiles
 redis
 a-pytube-fork-for-spotdl-users==9.6.4
